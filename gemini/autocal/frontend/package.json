@@ -20,7 +20,7 @@
     "dayjs": "^1.11.13",
     "eslint-config-prettier": "^10.1.1",
     "firebase": "^11.5.0",
-    "firebase-admin": "^13.2.0",
+    "firebase-admin": "^13.10.0",
     "google-auth-library": "^9.15.1",
     "next": "15.4.7",
     "react": "^19.1.0",
