@@ -5,7 +5,7 @@ description = "Backend server for the Gen AI Experience Concierge demo. Hosts mu
 readme = "README.md"
 requires-python = "==3.12.*"
 dependencies = [
-    "langgraph-checkpoint>=2.0.16",
+    "langgraph-checkpoint>=4.1.1",
     "pydantic-settings>=2.6.1",
     "fastapi>=0.115.9",
     "uvicorn>=0.34.0",
