@@ -3,7 +3,7 @@ ipython
 jupyter
 nbconvert
 types-requests
-black==24.10.0
+black==26.5.1
 blacken-docs==1.19.1
 pyupgrade==3.19.1
 isort==5.13.2
